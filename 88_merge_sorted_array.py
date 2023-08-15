@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150
+
 # Solution 1 and solution 2 are two ways of comparing nums1 and nums2
 # Solution 1 checks for the case nums1 lte nums 2
 # Solution 2 checks for the case nums1 gte nums 2
